@@ -1,0 +1,64 @@
+2023-07-25 19:07:959 INFO  HomePage :41 - Clicking on Computer Tab
+2023-07-25 19:07:46 INFO  ComputerPage :27 - Click on Computers Tab
+2023-07-25 19:07:903 INFO  HomePage :41 - Clicking on Computer Tab
+2023-07-25 19:07:934 INFO  ComputerPage :31 - Clicking on Desktops Link[[ChromeDriver: chrome on windows (339574d8ae9b99afb5206858190fb167)] -> xpath: //a[@title='Show products in category Desktops'][normalize-space()='Desktops']]
+2023-07-25 19:07:410 INFO  DesktopsPage :25 - Verify Desktops Text
+2023-07-25 19:07:530 INFO  HomePage :41 - Clicking on Computer Tab
+2023-07-25 19:07:475 INFO  ComputerPage :31 - Clicking on Desktops Link[[ChromeDriver: chrome on windows (6e3f9d6daa3f62eced1be9e3f0449643)] -> xpath: //a[@title='Show products in category Desktops'][normalize-space()='Desktops']]
+2023-07-25 19:07:893 INFO  DesktopsPage :29 - Clicking on Build Your Computer Product name [[ChromeDriver: chrome on windows (6e3f9d6daa3f62eced1be9e3f0449643)] -> xpath: //h2[@class='product-title']//a[normalize-space()='Build your own computer']]
+2023-07-25 19:07:349 INFO  BuildYourOwnComputerPage :44 - Select Processor in Processor dropdown
+2023-07-25 19:07:492 INFO  BuildYourOwnComputerPage :48 - Select RAM in RAM dropdown
+2023-07-25 19:07:601 INFO  BuildYourOwnComputerPage :52 - Clicking on HDD Radio
+2023-07-25 19:07:776 INFO  BuildYourOwnComputerPage :58 - Clicking on OS Radio
+2023-07-25 19:07:936 INFO  BuildYourOwnComputerPage :62 - Clicking on Software check box
+2023-07-25 19:07:109 INFO  BuildYourOwnComputerPage :66 - Clicking on add to cart button[[ChromeDriver: chrome on windows (6e3f9d6daa3f62eced1be9e3f0449643)] -> xpath: //button[@id='add-to-cart-button-1']]
+2023-07-25 19:07:153 INFO  BuildYourOwnComputerPage :71 - Getting The product has been added to your shopping cart Message
+2023-07-25 19:07:756 INFO  HomePage :41 - Clicking on Computer Tab
+2023-07-25 19:07:749 INFO  ComputerPage :31 - Clicking on Desktops Link[[ChromeDriver: chrome on windows (2bc0143e7ae2ab6fa38ccf93b02bd398)] -> xpath: //a[@title='Show products in category Desktops'][normalize-space()='Desktops']]
+2023-07-25 19:07:133 INFO  DesktopsPage :29 - Clicking on Build Your Computer Product name [[ChromeDriver: chrome on windows (2bc0143e7ae2ab6fa38ccf93b02bd398)] -> xpath: //h2[@class='product-title']//a[normalize-space()='Build your own computer']]
+2023-07-25 19:07:542 INFO  BuildYourOwnComputerPage :44 - Select Processor in Processor dropdown
+2023-07-25 19:07:619 INFO  BuildYourOwnComputerPage :48 - Select RAM in RAM dropdown
+2023-07-25 19:07:707 INFO  BuildYourOwnComputerPage :52 - Clicking on HDD Radio
+2023-07-25 19:07:873 INFO  BuildYourOwnComputerPage :58 - Clicking on OS Radio
+2023-07-25 19:07:34 INFO  BuildYourOwnComputerPage :62 - Clicking on Software check box
+2023-07-25 19:07:200 INFO  BuildYourOwnComputerPage :66 - Clicking on add to cart button[[ChromeDriver: chrome on windows (2bc0143e7ae2ab6fa38ccf93b02bd398)] -> xpath: //button[@id='add-to-cart-button-1']]
+2023-07-25 19:07:248 INFO  BuildYourOwnComputerPage :71 - Getting The product has been added to your shopping cart Message
+2023-07-25 19:07:667 INFO  HomePage :41 - Clicking on Computer Tab
+2023-07-25 19:07:204 INFO  ComputerPage :31 - Clicking on Desktops Link[[ChromeDriver: chrome on windows (4303d25be8c2ea814577ffd5468ce6b1)] -> xpath: //a[@title='Show products in category Desktops'][normalize-space()='Desktops']]
+2023-07-25 19:07:628 INFO  DesktopsPage :29 - Clicking on Build Your Computer Product name [[ChromeDriver: chrome on windows (4303d25be8c2ea814577ffd5468ce6b1)] -> xpath: //h2[@class='product-title']//a[normalize-space()='Build your own computer']]
+2023-07-25 19:07:97 INFO  BuildYourOwnComputerPage :44 - Select Processor in Processor dropdown
+2023-07-25 19:07:175 INFO  BuildYourOwnComputerPage :48 - Select RAM in RAM dropdown
+2023-07-25 19:07:280 INFO  BuildYourOwnComputerPage :52 - Clicking on HDD Radio
+2023-07-25 19:07:451 INFO  BuildYourOwnComputerPage :58 - Clicking on OS Radio
+2023-07-25 19:07:614 INFO  BuildYourOwnComputerPage :62 - Clicking on Software check box
+2023-07-25 19:07:799 INFO  BuildYourOwnComputerPage :66 - Clicking on add to cart button[[ChromeDriver: chrome on windows (4303d25be8c2ea814577ffd5468ce6b1)] -> xpath: //button[@id='add-to-cart-button-1']]
+2023-07-25 19:07:864 INFO  BuildYourOwnComputerPage :71 - Getting The product has been added to your shopping cart Message
+2023-07-25 19:07:658 INFO  HomePage :36 - Clicking on Register link
+2023-07-25 19:07:511 INFO  RegisterPage :83 - Getting Register Text
+2023-07-25 19:07:323 INFO  HomePage :36 - Clicking on Register link
+2023-07-25 19:07:789 INFO  RegisterPage :87 - Clicking on Register Button[[ChromeDriver: chrome on windows (cede004a7c6980098d91b27398638fb2)] -> id: register-button]
+2023-07-25 19:07:858 INFO  RegisterPage :92 - Getting First name is required Message
+2023-07-25 19:07:579 INFO  HomePage :36 - Clicking on Register link
+2023-07-25 19:07:440 INFO  RegisterPage :115 - Click on radio button in Female
+2023-07-25 19:07:530 INFO  RegisterPage :119 - Send text in first name field
+2023-07-25 19:07:622 INFO  RegisterPage :123 - Send text in last name field
+2023-07-25 19:07:704 INFO  RegisterPage :127 - Select day in Day dropdown
+2023-07-25 19:07:876 INFO  HomePage :28 - Clicking on login link[[ChromeDriver: chrome on windows (8092ac7a77959d5240b0b16f4b1d3ff2)] -> xpath: //a[contains(text(),'Log in')]]
+2023-07-25 19:07:702 INFO  LoginPage :43 - Enter email mani123@gmail.com to email field[[ChromeDriver: chrome on windows (8092ac7a77959d5240b0b16f4b1d3ff2)] -> id: Email]
+2023-07-25 19:07:791 INFO  LoginPage :47 - Enter password Mani0077 to password field[[ChromeDriver: chrome on windows (8092ac7a77959d5240b0b16f4b1d3ff2)] -> name: Password]
+2023-07-25 19:07:874 INFO  LoginPage :52 - Clicking on Login Button[[ChromeDriver: chrome on windows (8092ac7a77959d5240b0b16f4b1d3ff2)] -> xpath: //button[contains(text(),'Log in')]]
+2023-07-25 19:07:198 INFO  LoginPage :61 - Getting LogOut link Display
+2023-07-25 19:07:300 INFO  HomePage :28 - Clicking on login link[[ChromeDriver: chrome on windows (556250c48d58e9f97e437c3fcca47fc5)] -> xpath: //a[contains(text(),'Log in')]]
+2023-07-25 19:07:153 INFO  RegisterPage :139 - Send text in email field
+2023-07-25 19:07:229 INFO  RegisterPage :143 - Send text in password field
+2023-07-25 19:07:312 INFO  LoginPage :52 - Clicking on Login Button[[ChromeDriver: chrome on windows (556250c48d58e9f97e437c3fcca47fc5)] -> xpath: //button[contains(text(),'Log in')]]
+2023-07-25 19:07:212 INFO  LoginPage :66 - Clicking on Logout ButtonProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Log out')]'
+2023-07-25 19:07:215 INFO  HomePage :41 - Clicking on Computer Tab
+2023-07-25 19:07:143 INFO  ComputerPage :27 - Click on Computers Tab
+2023-07-25 19:07:776 INFO  HomePage :36 - Clicking on Register link
+2023-07-25 19:07:661 INFO  RegisterPage :83 - Getting Register Text
+2023-07-25 19:07:582 INFO  HomePage :28 - Clicking on login link[[ChromeDriver: chrome on windows (66f6023ad29aed9b7bc79da452d14bd3)] -> xpath: //a[contains(text(),'Log in')]]
+2023-07-25 19:07:518 INFO  LoginPage :43 - Enter email mani123@gmail.com to email field[[ChromeDriver: chrome on windows (66f6023ad29aed9b7bc79da452d14bd3)] -> id: Email]
+2023-07-25 19:07:664 INFO  LoginPage :47 - Enter password Mani0077 to password field[[ChromeDriver: chrome on windows (66f6023ad29aed9b7bc79da452d14bd3)] -> name: Password]
+2023-07-25 19:07:757 INFO  LoginPage :52 - Clicking on Login Button[[ChromeDriver: chrome on windows (66f6023ad29aed9b7bc79da452d14bd3)] -> xpath: //button[contains(text(),'Log in')]]
+2023-07-25 19:07:144 INFO  LoginPage :61 - Getting LogOut link Display
